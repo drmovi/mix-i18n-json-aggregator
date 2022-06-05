@@ -1,0 +1,21 @@
+{
+  "name": "mix-i18n-json-aggregator",
+  "version": "1.0.0",
+  "description": "Group languages according to lang code and output them into respective lang files",
+  "keywords": [
+    "laravel",
+    "mix",
+    "i18n",
+    "json",
+    "grouping"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "author": "drmovi000@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^8.0.3",
+    "laravel-mix": "^6.0.48",
+    "merge-jsons-webpack-plugin": "^2.0.1"
+  }
+}
