@@ -17,5 +17,9 @@
     "glob": "^8.0.3",
     "laravel-mix": "^6.0.48",
     "merge-jsons-webpack-plugin": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmovi/mix-i18n-json-aggregator.git"
   }
 }
