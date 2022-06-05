@@ -43,7 +43,7 @@ class MixI18nAggregator {
         }, []);
         return new MergeJsonWebpackPlugin({
             encoding: "utf-8",
-            debug: true,
+            debug: false,
             output: {
                 groupBy: this.groups
             },
