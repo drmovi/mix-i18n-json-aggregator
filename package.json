@@ -1,6 +1,6 @@
 {
   "name": "mix-i18n-json-aggregator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Group languages according to lang code and output them into respective lang files",
   "keywords": [
     "laravel",
